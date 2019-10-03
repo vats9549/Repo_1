@@ -1,14 +1,14 @@
 # INDEX 
 ---
 
-#### [1. Basics](#)
+#### [1. Basics](#B2ASICS)
 
 * Arduino
     * Digital Pins
     * Analog pins
 * Breadboard
     * Connection pattern 
-#### 2. [Sensors](_)
+#### 2. [Sensors](#sSensors)
  
 * IR
 * LDR
@@ -19,7 +19,30 @@
 * I2C
 * UART
 ---
-# BASICS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+# B2ASICS
+t.est
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+test
+
 ----
 # Sensors
 ----
