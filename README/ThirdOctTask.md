@@ -28,7 +28,8 @@
 .
 .
 .
-Logo: ![Alt](https://i2.wp.com/s.wordpress.org/about/images/logos/wordpress-logo-32.png "Title")
+W: ![Alt](https://i2.wp.com/s.wordpress.org/about/images/logos/wordpress-logo-32.png
+"Title")
 
 # BASICS
 t.est
