@@ -28,6 +28,7 @@
 .
 .
 .
+Logo: ![Alt](/wp.png "Title")
 
 # BASICS
 t.est
