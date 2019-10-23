@@ -11,7 +11,9 @@
     * Digital Pins
     * Analog pins
 * Breadboard
-    * Connection pattern 
+    * Connection pattern
+* L239D motor
+*
 <<<<<<< HEAD
 #### 2. [Sensors](#sSensors)
 =======
@@ -21,21 +23,13 @@
 * IR
 * LDR
 * Ultrasonic Sensor
-* 8 array Line Following sensor 
+* 8 array Line Following sensor
+
 #### 3. [Comm Protocols](#Comm Protocols)
 * SPI
 * I2C
 * UART
 ---
-.
-.
-.
-.
-.
-.
-.
-.
-.
 <<<<<<< HEAD
 
 # B2ASICS
@@ -45,33 +39,7 @@ W: ![Aloo](https://i2.wp.com/s.wordpress.org/about/images/logos/wordpress-logo-3
 
 # BASICS
 >>>>>>> 19c5398a45104668ed5f3d3c2ae05cdac009967b
-t.est
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-test
 
-
-# BASICS
-t.est
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-test
 
 ----
 # Sensors
