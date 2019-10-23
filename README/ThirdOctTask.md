@@ -12,8 +12,7 @@
     * Analog pins
 * Breadboard
     * Connection pattern
-* L239D motor
-*
+
 <<<<<<< HEAD
 #### 2. [Sensors](#sSensors)
 =======
@@ -30,7 +29,10 @@
 * I2C
 * UART
 ---
-<<<<<<< HEAD
+#### 4. Actualators
+* L239D 
+* SG90
+
 
 # B2ASICS
 =======
