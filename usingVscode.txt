@@ -1,0 +1,4 @@
+    c++
+g++ -o QueueImplementedByStack QueueImplementedByStack.cpp
+./QueueImplementedByStack
+    java
