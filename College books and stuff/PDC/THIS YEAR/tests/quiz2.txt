@@ -1,0 +1,58 @@
+
+4.Count the number of transitions for the signal generated using Manchester encoding for the given sequence 10001011
+(1/1 Points)
+10
+12
+11
+6
+5.Calculate bandwidth and data rate for the given details, fc=50KHz, fd=15KHz, and M=8.
+(0/1 Points)
+Bandwidth 240 KHz and data rate 90 Kbps
+Bandwidth 240 KHz and data rate 60 Kbps
+Bandwidth 120 KHz and data rate 60 Kbps
+Bandwidth 240 KHz and data rate 90 Kbps
+6.In DPSK, the phase shift is with reference to the next bit transmitted rather than to some constant reference signal
+(1/1 Points)
+True
+False
+7.Suppose a transmitter produces 62 W of power. If the transmitter’s power is applied to a unity gain antenna with a 400-MHz carrier frequency, what is the received power in dB at a free space distance of 70 m?
+(1/1 Points)
+61.38 dB
+-43.38 dB
+65.46 dB
+45.38 dB
+8.Determine the distance to reach customers, if the height of an antenna for a TV station is 380 m
+(1/1 Points)
+22
+80
+35
+9.In which of the line coding scheme loss of synchronization occurs for long sequence of 0s
+(1/1 Points)
+Bipolar AMI
+Manchester
+Differential Manchester
+B8ZS
+10.If the number of signal level is 8 and r=0, then the bandwidth efficiency of MPSK scheme is
+(1/1 Points)
+2
+8
+0.125
+0.5
+11.Which of the below shielded twisted pair configuration has a shield around each individual pair, as well as around the entire group of wires.
+(1/1 Points)
+FTP
+F/UTP
+S/FTP
+None of the above
+12.The NEXT loss of Category 5e/class D twisted pair cable is
+(1/1 Points)
+5 db
+30.1 db
+39.9 db
+62.9 db
+13.Which of the below fiber transmission mode gives superior performance
+(1/1 Points)
+single mode
+graded index multimode
+step index multimode
+dual mode

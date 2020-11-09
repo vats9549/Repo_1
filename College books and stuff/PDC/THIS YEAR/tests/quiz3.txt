@@ -1,0 +1,60 @@
+3.Which of these sentence is false?
+(1/1 Points)
+Probability that a frame arrives with no bit errors decreases when the probability of a single bit error increases.
+Probability that a frame arrives with no bit errors decreases with increasing frame length
+Longer the frame, the more bits it has and the higher the probability that one of these is in error.
+Probability that a frame arrives with no bit errors increases with increasing frame length
+4.A  frame, contains 48 bits of control, preamble, and postamble and a maximum of 1000 characters of data. To send a 4000-character block of data,   the percentage overhead is _________
+(0/1 Points)
+2.4
+0.6
+4
+1.2
+5.If a message x^9 +x^5 is received at the receiver, with the pattern X^4 +1. The following statements are definitely true
+(1/1 Points)
+The remainder is zero
+The quotient is x^5
+There is no error introduced during transmission
+n-k value is 4
+6.Consider the FCS is calculated using the digital logic method. The sender uses the pattern (x+1)(x^11 + x^2 + 1) for the data bits ‘1 0 0 0 1 1 1 1 0 1 0 0 0 ’. The number of XOR gates required for the shift register implementation is __________
+(0/1 Points)
+4
+5
+6
+7
+7.The number of shift registers required to calculate FCS using the pattern, (x + 1) (x^15 + x^14 + x^13 + x^12 + x^4 + x^3 + x^2 + x + 1) is __________
+(0/1 Points)
+11
+16
+15
+17
+8.Select the pattern which requires the minimum number of shift registers for implementation to calculate FCS.
+(1/1 Points)
+x^12 + x^10 + x^9 + 1
+(x + 1) (x^8 + x^3 + 1)
+x^14 + x^10 + 1
+(x + 1) (x^10 + x^4 + 1)
+9.Select the pattern which requires 10 shift registers to calculate FCS.
+(0/1 Points)
+x^9 + 1
+(x + 1) (x^10 + x^3 + 1)
+x^11 + x^8 + 1
+(x + 1) (x^9 + x^4 + 1)
+10.Let  10000, 00111, 11001, 11110 be the valid codewods. The number of errors that can be detected as well as corrected is
+(0/1 Points)
+0
+1
+2
+3
+11.What is the code rate of the hamming code  generated if the number of the data bit is 7
+(1/1 Points)
+0.3
+0.36
+0.57
+0.63
+12.If the hamming code received at the destination with 1 bit error is 10101101110. The error is in ____ position. (Assume even parity)
+(1/1 Points)
+4
+5
+6
+7
