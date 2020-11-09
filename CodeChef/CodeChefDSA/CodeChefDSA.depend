@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1597125386 source:d:\c++\codechefdsa\main.cpp
+	<iostream>
+
+1597126449 source:d:\c++\codechefdsa\lifeunieverything.cpp
+	<iostream>
+
+1597126462 source:d:\c++\codechefdsa\reversenum.cpp
+	<iostream>
+
