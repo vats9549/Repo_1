@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1597301517 source:d:\c++\linechess\linechess.cpp
-	<iostream>
-
-1597301507 source:d:\c++\linechess\linechessalt.cpp
-	<bits/stdc++.h>
-

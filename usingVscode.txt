@@ -2,3 +2,5 @@
 g++ -o QueueImplementedByStack QueueImplementedByStack.cpp
 ./QueueImplementedByStack
     java
+javac MyFirstJavaProgram.java
+java MyFirstJavaProgram

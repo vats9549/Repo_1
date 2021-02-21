@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1599226467 source:d:\c++\cuda\main.cpp
-	<cmath>
-	<cstdio>
-	<vector>
-	<iostream>
-	<algorithm>
-
